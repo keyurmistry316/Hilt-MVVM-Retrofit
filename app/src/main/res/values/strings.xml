@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hilt-MVVM-Retrofit</string>
+    <string name="products">Products\n</string>
+</resources>
